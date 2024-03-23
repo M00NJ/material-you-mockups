@@ -1,14 +1,18 @@
 ## Material You Mockups
-This is a collection of mockups for a suite of basic android apps closely following Material Design 3 guidelines.
+This is a collection of mockups for a suite of basic android apps, closely following Material Design 3 guidelines.
 
-Image 1 | Image 2 | Image 3
+<img src='Clock/Alarm.png' width='300'> <img src='Files/Browse.png' width='300'> <img src='Connect/Messages.png' width='300'>
+
+### Available mockups
 
 |Apps|Tabs|Screens|
 |---|---|---|
 |Clock|:white_check_mark:|:x:|
-|Contacts|:white_check_mark:|:x:|
-|Dialer|:white_check_mark:|:x:|
-|Messages|:white_check_mark:|:x:|
+|Contacts*|:white_check_mark:|:x:|
+|Dialer*|:white_check_mark:|:x:|
+|Messages*|:white_check_mark:|:x:|
 |Files|:white_check_mark:|:x:|
 |Gallery|:white_check_mark:|:x:|
 |Calculator|:x:|:x:|
+
+###### *Grouped into one application because of shared functionality
