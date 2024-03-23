@@ -1,7 +1,7 @@
 ## Material You Mockups
 This is a collection of mockups for a suite of basic android apps, closely following Material Design 3 guidelines.
 
-<img src='Clock/Alarm.png' width='300'> <img src='Files/Browse.png' width='300'> <img src='Connect/Messages.png' width='300'>
+<img src='Clock/Alarm.png' width='250'> <img src='Files/Browse.png' width='250'> <img src='Connect/Messages.png' width='250'>
 
 ### Available mockups
 
@@ -16,3 +16,7 @@ This is a collection of mockups for a suite of basic android apps, closely follo
 |Calculator|:x:|:x:|
 
 ###### *Grouped into one application because of shared functionality
+
+### Licence
+
+ Material You Mockups is licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). You can use, study and share it as you want.
