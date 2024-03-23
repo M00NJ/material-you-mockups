@@ -17,6 +17,6 @@ A collection of mockups for a suite of basic android apps, closely following Mat
 
 ###### *Grouped into one application because of shared functionality
 
-### Licence
+### License
 
  Material You Mockups is licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). You can use, study and share it as you want.
