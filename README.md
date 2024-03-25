@@ -1,7 +1,7 @@
 ## Material You Mockups
 A collection of mockups for a suite of basic android apps, closely following Material Design 3 guidelines.
 
-<img src='Clock/Alarm.png' width='250'> <img src='Files/Browse.png' width='250'> <img src='Connect/Messages.png' width='250'>
+<Clock/Tabs/Alarm.png' width='250'> <img src='Files/Browse.png' width='250'> <img src='Connect/Messages.png' width='250'>
 
 ### Completion Status
 
