@@ -12,7 +12,7 @@ A collection of mockups for a suite of basic android apps, closely following Mat
 |Dialer*|<ul><li>- [x] Calls</li></ul>|<ul><li>- [ ] Dial-Number</li><li>- [ ] Active-Call</li></ul>|
 |Messages*|<ul><li>- [x] Messages</li></ul>|<ul><li>- [ ] Chat</li></ul>|
 |Files|<ul><li>- [x] Browse</li><li>- [x] Folders</li><li>- [x] Trash</li></ul>|---|
-|Gallery|<ul><li>- [x] Photos</li><li>- [x] Albums</li><li>- [x] Trash</li></ul>|<ul><li>- [ ] View-Image</li></ul>|
+|Gallery|<ul><li>- [x] Photos</li><li>- [x] Albums</li><li>- [x] Trash</li></ul>|<ul><li>- [x] View-Image</li><li>- [ ] Watch-Video</li></ul>|
 |Calculator|?|?|
 |Calendar|?|?|
 
