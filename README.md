@@ -9,7 +9,7 @@ A collection of mockups for a suite of basic android apps, closely following Mat
 |---|---|---|
 |Clock|<ul><li>- [x] Alarm</li><li>- [x] Clock</li><li>- [x] Timer</li><li>- [x] Stopwatch</li></ul>|<ul><li>- [x] Set-Timer</li><li>- [x] Dismiss-Alarm</li></ul>|
 |Contacts*|<ul><li>- [x] Contacts</li></ul>|<ul><li>- [ ] View-Contact</li><li>- [ ] Edit-Contact</li></ul>|
-|Dialer*|<ul><li>- [x] Calls</li></ul>|<ul><li>- [ ] Dial-Number</li><li>- [ ] Active-Call</li></ul>|
+|Dialer*|<ul><li>- [x] Calls</li></ul>|<ul><li>- [x] Dial-Number</li><li>- [ ] Active-Call</li></ul>|
 |Messages*|<ul><li>- [x] Messages</li></ul>|<ul><li>- [ ] Chat</li></ul>|
 |Files|<ul><li>- [x] Browse</li><li>- [x] Folders</li><li>- [x] Trash</li></ul>|---|
 |Gallery|<ul><li>- [x] Photos</li><li>- [x] Albums</li><li>- [x] Trash</li></ul>|<ul><li>- [x] View-Image</li><li>- [ ] Watch-Video</li></ul>|
