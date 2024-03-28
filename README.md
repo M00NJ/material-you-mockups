@@ -3,6 +3,9 @@ A collection of mockups for a suite of basic android apps, closely following Mat
 
 <img src='Clock/Tabs/Alarm.png' width='250'> <img src='Files/Tabs/Browse.png' width='250'> <img src='Connect/Screens/View-Contact.png' width='250'>
 
+### About
+More and more open-source projects are adopting Material Design 3. However simply using the new components does not always result in a clean and beautiful UI. There are many things to consider when designing a user interface, like spacing, alignment, emphasis, reachability, etc. These mockups aim to provide a foundation for creating well structured and nice looking applications with MD3 components. They show heavy use cases and components in various states to provide as much insight as possible. The current goal is to cover all tabs and screens of a suite of basic mobile applications.
+
 ### Completion Status
 
 |Apps|Tabs|Screens|
@@ -16,8 +19,8 @@ A collection of mockups for a suite of basic android apps, closely following Mat
 |Calculator|?|?|
 |Calendar|?|?|
 
-###### *Grouped into one application because of shared functionality
+*Grouped into one application because of shared functionality
 
 ### License
 
- Material You Mockups is licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). You can use, study and share it as you want.
+ Material You Mockups is licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
