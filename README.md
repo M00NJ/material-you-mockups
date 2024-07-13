@@ -11,15 +11,12 @@ More and more open-source projects are adopting Material Design 3. However simpl
 |Apps|Tabs|Screens|
 |---|---|---|
 |Clock|<ul><li>- [x] Alarm</li><li>- [x] Clock</li><li>- [x] Timer</li><li>- [x] Stopwatch</li></ul>|<ul><li>- [x] Set-Timer</li><li>- [x] Dismiss-Alarm</li></ul>|
-|Contacts*|<ul><li>- [x] Contacts</li></ul>|<ul><li>- [x] View-Contact</li><li>- [x] Edit-Contact</li></ul>|
-|Dialer*|<ul><li>- [x] Calls</li></ul>|<ul><li>- [x] Dial-Number</li><li>- [ ] Active-Call</li></ul>|
-|Messages*|<ul><li>- [x] Messages</li></ul>|<ul><li>- [ ] Chat</li></ul>|
-|Files|<ul><li>- [x] Browse</li><li>- [x] Folders</li><li>- [x] Trash</li></ul>|---|
+|Contacts|<ul><li>- [x] Contacts</li></ul>|<ul><li>- [x] View-Contact</li><li>- [x] Edit-Contact</li></ul>|
+|Phone|<ul><li>- [x] Calls</li></ul>|<ul><li>- [x] Dial-Number</li><li>- [ ] Incoming-Call</li><li>- [ ] Active-Call</li></ul>|
+|Messages|<ul><li>- [x] Messages</li></ul>|<ul><li>- [ ] Chat</li></ul>|
+|Files|<ul><li>- [x] Browse</li><li>- [x] Folders</li><li>- [x] Trash</li></ul>||
 |Gallery|<ul><li>- [x] Photos</li><li>- [x] Albums</li><li>- [x] Trash</li></ul>|<ul><li>- [x] View-Image</li><li>- [ ] Watch-Video</li></ul>|
-|Calculator|?|?|
-|Calendar|?|?|
-
-*Grouped into one application because of shared functionality
+|Calculator|<ul><li>- [ ] Calculator</li></ul>||
 
 ### License
 
